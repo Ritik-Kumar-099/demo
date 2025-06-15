@@ -1,4 +1,4 @@
 # demo
 first git repo.
 <br>
-author-Ritik kushawaha
+author-Ritik kushwaha
